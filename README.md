@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emilenls
 - 👀 I’m interested in learning to code !!!
 - 🌱 I’m currently learning Python !
-- 💞️ I’m looking to collaborate on building legal algorithmes 
+- 💞️ I’m looking to collaborate on building legal algorithms
 - 📫 How to reach me emile.nicolas@hec.edu
 
 <!---
